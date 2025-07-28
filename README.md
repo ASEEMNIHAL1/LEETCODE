@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0027-remove-element](https://github.com/ASEEMNIHAL1/LEETCODE/tree/master/0027-remove-element) |
 | [0136-single-number](https://github.com/ASEEMNIHAL1/LEETCODE/tree/master/0136-single-number) |
 | [0283-move-zeroes](https://github.com/ASEEMNIHAL1/LEETCODE/tree/master/0283-move-zeroes) |
+| [1878-check-if-array-is-sorted-and-rotated](https://github.com/ASEEMNIHAL1/LEETCODE/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/ASEEMNIHAL1/LEETCODE/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 ## Two Pointers
 |  |
