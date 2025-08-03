@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ASEEMNIHAL1/LEETCODE/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/ASEEMNIHAL1/LEETCODE/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ASEEMNIHAL1/LEETCODE/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/ASEEMNIHAL1/LEETCODE/tree/master/0027-remove-element) |
 | [0053-maximum-subarray](https://github.com/ASEEMNIHAL1/LEETCODE/tree/master/0053-maximum-subarray) |
@@ -31,6 +32,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/ASEEMNIHAL1/LEETCODE/tree/master/0014-longest-common-prefix) |
 | [1894-merge-strings-alternately](https://github.com/ASEEMNIHAL1/LEETCODE/tree/master/1894-merge-strings-alternately) |
 ## Hash Table
 |  |
@@ -65,4 +67,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0053-maximum-subarray](https://github.com/ASEEMNIHAL1/LEETCODE/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ASEEMNIHAL1/LEETCODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/ASEEMNIHAL1/LEETCODE/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
