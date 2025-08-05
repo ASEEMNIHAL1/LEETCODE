@@ -26,7 +26,7 @@ class Solution {
         reverse(nums, ind + 1, n - 1);
     }
 
-    private void reverse(int[] nums, int start, int end){
+    public void reverse(int[] nums, int start, int end){
         while(start < end) {
             int temp = nums[start];
             nums[start] = nums[end];
