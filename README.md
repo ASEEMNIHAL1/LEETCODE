@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/ASEEMNIHAL1/LEETCODE/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/ASEEMNIHAL1/LEETCODE/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/ASEEMNIHAL1/LEETCODE/tree/master/0485-max-consecutive-ones) |
+| [0909-stone-game](https://github.com/ASEEMNIHAL1/LEETCODE/tree/master/0909-stone-game) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/ASEEMNIHAL1/LEETCODE/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/ASEEMNIHAL1/LEETCODE/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 ## Two Pointers
@@ -53,6 +54,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0189-rotate-array](https://github.com/ASEEMNIHAL1/LEETCODE/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/ASEEMNIHAL1/LEETCODE/tree/master/0268-missing-number) |
+| [0909-stone-game](https://github.com/ASEEMNIHAL1/LEETCODE/tree/master/0909-stone-game) |
 ## Binary Search
 |  |
 | ------- |
@@ -71,6 +73,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0053-maximum-subarray](https://github.com/ASEEMNIHAL1/LEETCODE/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ASEEMNIHAL1/LEETCODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0909-stone-game](https://github.com/ASEEMNIHAL1/LEETCODE/tree/master/0909-stone-game) |
 ## Trie
 |  |
 | ------- |
@@ -79,4 +82,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/ASEEMNIHAL1/LEETCODE/tree/master/0128-longest-consecutive-sequence) |
+## Game Theory
+|  |
+| ------- |
+| [0909-stone-game](https://github.com/ASEEMNIHAL1/LEETCODE/tree/master/0909-stone-game) |
 <!---LeetCode Topics End-->
