@@ -1,18 +1,15 @@
 class Solution {
     public int subarraySum(int[] nums, int k) {
-    int cnt = 0;
-    int n = nums.length;
-    for(int i = 0;i<n;i++){
-        int sum = 0;
-        {
-            for(int j = i;j<n;j++) {
-                sum += nums[j];
-                if(sum == k) {
-                    cnt++;
-                }
-            }
+      HashMap<Integer,Integer> mpp = new HashMap<>();
+        mpp.put(0,1);
+        int pre = 0, cnt = 0;
+
+        for(int num:nums){
+            pre += num;
+            int remove = pre - k;
+            cnt += mpp.getOrDefault(remove,0);
+            mpp.put(pre, mpp.getOrDefault(pre,0) + 1);
         }
-    }
         return cnt;
     }
 }
