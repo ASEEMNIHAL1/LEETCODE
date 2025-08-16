@@ -76,6 +76,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0342-power-of-four](https://github.com/ASEEMNIHAL1/LEETCODE/tree/master/0342-power-of-four) |
 | [0900-reordered-power-of-2](https://github.com/ASEEMNIHAL1/LEETCODE/tree/master/0900-reordered-power-of-2) |
 | [0909-stone-game](https://github.com/ASEEMNIHAL1/LEETCODE/tree/master/0909-stone-game) |
+| [1448-maximum-69-number](https://github.com/ASEEMNIHAL1/LEETCODE/tree/master/1448-maximum-69-number) |
 ## Binary Search
 |  |
 | ------- |
@@ -140,4 +141,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0900-reordered-power-of-2](https://github.com/ASEEMNIHAL1/LEETCODE/tree/master/0900-reordered-power-of-2) |
+## Greedy
+|  |
+| ------- |
+| [1448-maximum-69-number](https://github.com/ASEEMNIHAL1/LEETCODE/tree/master/1448-maximum-69-number) |
 <!---LeetCode Topics End-->
