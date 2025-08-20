@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ASEEMNIHAL1/LEETCODE/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/ASEEMNIHAL1/LEETCODE/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/ASEEMNIHAL1/LEETCODE/tree/master/0031-next-permutation) |
+| [0035-search-insert-position](https://github.com/ASEEMNIHAL1/LEETCODE/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/ASEEMNIHAL1/LEETCODE/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/ASEEMNIHAL1/LEETCODE/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/ASEEMNIHAL1/LEETCODE/tree/master/0054-spiral-matrix) |
@@ -88,6 +89,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/ASEEMNIHAL1/LEETCODE/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/ASEEMNIHAL1/LEETCODE/tree/master/0268-missing-number) |
 | [0493-reverse-pairs](https://github.com/ASEEMNIHAL1/LEETCODE/tree/master/0493-reverse-pairs) |
 | [0792-binary-search](https://github.com/ASEEMNIHAL1/LEETCODE/tree/master/0792-binary-search) |
