@@ -8,7 +8,7 @@ class Solution {
             }
 
             if(Long.bitCount(val) <= i && i <= val) {
-                return (int)i;
+                return i;
             }
         }
     }
