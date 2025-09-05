@@ -2,7 +2,7 @@ class Solution {
 public:
     int countSetBits(long long n) {
         int count = 0;
-        while (n) {
+        while (n>0) {
             count += n & 1; // Add 1 if the last bit is set
             n >>= 1;        // Right shift by 1
         }
