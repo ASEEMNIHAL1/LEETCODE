@@ -201,6 +201,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Linked List
 |  |
 | ------- |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/ASEEMNIHAL1/LEETCODE/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/ASEEMNIHAL1/LEETCODE/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Number Theory
 |  |
