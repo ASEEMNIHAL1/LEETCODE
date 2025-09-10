@@ -165,6 +165,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/ASEEMNIHAL1/LEETCODE/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/ASEEMNIHAL1/LEETCODE/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/ASEEMNIHAL1/LEETCODE/tree/master/0342-power-of-four) |
 ## Counting
@@ -202,6 +203,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/ASEEMNIHAL1/LEETCODE/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0206-reverse-linked-list](https://github.com/ASEEMNIHAL1/LEETCODE/tree/master/0206-reverse-linked-list) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/ASEEMNIHAL1/LEETCODE/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Number Theory
 |  |
