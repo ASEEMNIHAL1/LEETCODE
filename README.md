@@ -39,6 +39,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0493-reverse-pairs](https://github.com/ASEEMNIHAL1/LEETCODE/tree/master/0493-reverse-pairs) |
 | [0560-subarray-sum-equals-k](https://github.com/ASEEMNIHAL1/LEETCODE/tree/master/0560-subarray-sum-equals-k) |
 | [0792-binary-search](https://github.com/ASEEMNIHAL1/LEETCODE/tree/master/0792-binary-search) |
+| [0898-transpose-matrix](https://github.com/ASEEMNIHAL1/LEETCODE/tree/master/0898-transpose-matrix) |
 | [0907-koko-eating-bananas](https://github.com/ASEEMNIHAL1/LEETCODE/tree/master/0907-koko-eating-bananas) |
 | [0909-stone-game](https://github.com/ASEEMNIHAL1/LEETCODE/tree/master/0909-stone-game) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/ASEEMNIHAL1/LEETCODE/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -158,10 +159,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0048-rotate-image](https://github.com/ASEEMNIHAL1/LEETCODE/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/ASEEMNIHAL1/LEETCODE/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/ASEEMNIHAL1/LEETCODE/tree/master/0073-set-matrix-zeroes) |
+| [0898-transpose-matrix](https://github.com/ASEEMNIHAL1/LEETCODE/tree/master/0898-transpose-matrix) |
 ## Simulation
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/ASEEMNIHAL1/LEETCODE/tree/master/0054-spiral-matrix) |
+| [0898-transpose-matrix](https://github.com/ASEEMNIHAL1/LEETCODE/tree/master/0898-transpose-matrix) |
 ## Prefix Sum
 |  |
 | ------- |
