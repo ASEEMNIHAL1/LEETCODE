@@ -66,6 +66,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0014-longest-common-prefix](https://github.com/ASEEMNIHAL1/LEETCODE/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/ASEEMNIHAL1/LEETCODE/tree/master/0020-valid-parentheses) |
 | [0242-valid-anagram](https://github.com/ASEEMNIHAL1/LEETCODE/tree/master/0242-valid-anagram) |
+| [0812-rotate-string](https://github.com/ASEEMNIHAL1/LEETCODE/tree/master/0812-rotate-string) |
 | [1894-merge-strings-alternately](https://github.com/ASEEMNIHAL1/LEETCODE/tree/master/1894-merge-strings-alternately) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/ASEEMNIHAL1/LEETCODE/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [3462-vowels-game-in-a-string](https://github.com/ASEEMNIHAL1/LEETCODE/tree/master/3462-vowels-game-in-a-string) |
@@ -235,4 +236,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/ASEEMNIHAL1/LEETCODE/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [3462-vowels-game-in-a-string](https://github.com/ASEEMNIHAL1/LEETCODE/tree/master/3462-vowels-game-in-a-string) |
+## String Matching
+|  |
+| ------- |
+| [0812-rotate-string](https://github.com/ASEEMNIHAL1/LEETCODE/tree/master/0812-rotate-string) |
 <!---LeetCode Topics End-->
