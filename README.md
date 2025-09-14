@@ -65,6 +65,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0014-longest-common-prefix](https://github.com/ASEEMNIHAL1/LEETCODE/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/ASEEMNIHAL1/LEETCODE/tree/master/0020-valid-parentheses) |
+| [0242-valid-anagram](https://github.com/ASEEMNIHAL1/LEETCODE/tree/master/0242-valid-anagram) |
 | [1894-merge-strings-alternately](https://github.com/ASEEMNIHAL1/LEETCODE/tree/master/1894-merge-strings-alternately) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/ASEEMNIHAL1/LEETCODE/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [3462-vowels-game-in-a-string](https://github.com/ASEEMNIHAL1/LEETCODE/tree/master/3462-vowels-game-in-a-string) |
@@ -77,6 +78,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0128-longest-consecutive-sequence](https://github.com/ASEEMNIHAL1/LEETCODE/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/ASEEMNIHAL1/LEETCODE/tree/master/0141-linked-list-cycle) |
 | [0229-majority-element-ii](https://github.com/ASEEMNIHAL1/LEETCODE/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/ASEEMNIHAL1/LEETCODE/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/ASEEMNIHAL1/LEETCODE/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/ASEEMNIHAL1/LEETCODE/tree/master/0560-subarray-sum-equals-k) |
 | [0900-reordered-power-of-2](https://github.com/ASEEMNIHAL1/LEETCODE/tree/master/0900-reordered-power-of-2) |
@@ -128,6 +130,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0056-merge-intervals](https://github.com/ASEEMNIHAL1/LEETCODE/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/ASEEMNIHAL1/LEETCODE/tree/master/0075-sort-colors) |
 | [0229-majority-element-ii](https://github.com/ASEEMNIHAL1/LEETCODE/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/ASEEMNIHAL1/LEETCODE/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/ASEEMNIHAL1/LEETCODE/tree/master/0268-missing-number) |
 | [0900-reordered-power-of-2](https://github.com/ASEEMNIHAL1/LEETCODE/tree/master/0900-reordered-power-of-2) |
 ## Divide and Conquer
