@@ -43,6 +43,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0907-koko-eating-bananas](https://github.com/ASEEMNIHAL1/LEETCODE/tree/master/0907-koko-eating-bananas) |
 | [0909-stone-game](https://github.com/ASEEMNIHAL1/LEETCODE/tree/master/0909-stone-game) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/ASEEMNIHAL1/LEETCODE/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/ASEEMNIHAL1/LEETCODE/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/ASEEMNIHAL1/LEETCODE/tree/master/2432-number-of-zero-filled-subarrays) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/ASEEMNIHAL1/LEETCODE/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/ASEEMNIHAL1/LEETCODE/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
@@ -111,6 +112,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0909-stone-game](https://github.com/ASEEMNIHAL1/LEETCODE/tree/master/0909-stone-game) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/ASEEMNIHAL1/LEETCODE/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1448-maximum-69-number](https://github.com/ASEEMNIHAL1/LEETCODE/tree/master/1448-maximum-69-number) |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/ASEEMNIHAL1/LEETCODE/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/ASEEMNIHAL1/LEETCODE/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/ASEEMNIHAL1/LEETCODE/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3462-vowels-game-in-a-string](https://github.com/ASEEMNIHAL1/LEETCODE/tree/master/3462-vowels-game-in-a-string) |
@@ -230,11 +232,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Number Theory
 |  |
 | ------- |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/ASEEMNIHAL1/LEETCODE/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/ASEEMNIHAL1/LEETCODE/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Stack
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ASEEMNIHAL1/LEETCODE/tree/master/0020-valid-parentheses) |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/ASEEMNIHAL1/LEETCODE/tree/master/2307-replace-non-coprime-numbers-in-array) |
 ## Brainteaser
 |  |
 | ------- |
