@@ -70,6 +70,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0020-valid-parentheses](https://github.com/ASEEMNIHAL1/LEETCODE/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ASEEMNIHAL1/LEETCODE/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0067-add-binary](https://github.com/ASEEMNIHAL1/LEETCODE/tree/master/0067-add-binary) |
+| [0171-excel-sheet-column-number](https://github.com/ASEEMNIHAL1/LEETCODE/tree/master/0171-excel-sheet-column-number) |
 | [0242-valid-anagram](https://github.com/ASEEMNIHAL1/LEETCODE/tree/master/0242-valid-anagram) |
 | [0812-rotate-string](https://github.com/ASEEMNIHAL1/LEETCODE/tree/master/0812-rotate-string) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/ASEEMNIHAL1/LEETCODE/tree/master/1264-maximum-number-of-words-you-can-type) |
@@ -110,6 +111,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0007-reverse-integer](https://github.com/ASEEMNIHAL1/LEETCODE/tree/master/0007-reverse-integer) |
 | [0048-rotate-image](https://github.com/ASEEMNIHAL1/LEETCODE/tree/master/0048-rotate-image) |
 | [0067-add-binary](https://github.com/ASEEMNIHAL1/LEETCODE/tree/master/0067-add-binary) |
+| [0171-excel-sheet-column-number](https://github.com/ASEEMNIHAL1/LEETCODE/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/ASEEMNIHAL1/LEETCODE/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/ASEEMNIHAL1/LEETCODE/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/ASEEMNIHAL1/LEETCODE/tree/master/0268-missing-number) |
