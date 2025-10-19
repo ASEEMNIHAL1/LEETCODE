@@ -65,6 +65,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0088-merge-sorted-array](https://github.com/ASEEMNIHAL1/LEETCODE/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/ASEEMNIHAL1/LEETCODE/tree/master/0141-linked-list-cycle) |
 | [0189-rotate-array](https://github.com/ASEEMNIHAL1/LEETCODE/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/ASEEMNIHAL1/LEETCODE/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/ASEEMNIHAL1/LEETCODE/tree/master/0283-move-zeroes) |
 | [1894-merge-strings-alternately](https://github.com/ASEEMNIHAL1/LEETCODE/tree/master/1894-merge-strings-alternately) |
 ## String
@@ -89,6 +90,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0073-set-matrix-zeroes](https://github.com/ASEEMNIHAL1/LEETCODE/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/ASEEMNIHAL1/LEETCODE/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/ASEEMNIHAL1/LEETCODE/tree/master/0141-linked-list-cycle) |
+| [0202-happy-number](https://github.com/ASEEMNIHAL1/LEETCODE/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/ASEEMNIHAL1/LEETCODE/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/ASEEMNIHAL1/LEETCODE/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/ASEEMNIHAL1/LEETCODE/tree/master/0242-valid-anagram) |
@@ -117,6 +119,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0067-add-binary](https://github.com/ASEEMNIHAL1/LEETCODE/tree/master/0067-add-binary) |
 | [0171-excel-sheet-column-number](https://github.com/ASEEMNIHAL1/LEETCODE/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/ASEEMNIHAL1/LEETCODE/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/ASEEMNIHAL1/LEETCODE/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/ASEEMNIHAL1/LEETCODE/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/ASEEMNIHAL1/LEETCODE/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/ASEEMNIHAL1/LEETCODE/tree/master/0342-power-of-four) |
