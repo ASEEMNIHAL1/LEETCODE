@@ -72,6 +72,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/ASEEMNIHAL1/LEETCODE/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/ASEEMNIHAL1/LEETCODE/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/ASEEMNIHAL1/LEETCODE/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ASEEMNIHAL1/LEETCODE/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
@@ -89,6 +90,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ASEEMNIHAL1/LEETCODE/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/ASEEMNIHAL1/LEETCODE/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0073-set-matrix-zeroes](https://github.com/ASEEMNIHAL1/LEETCODE/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/ASEEMNIHAL1/LEETCODE/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/ASEEMNIHAL1/LEETCODE/tree/master/0141-linked-list-cycle) |
@@ -304,4 +306,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0181-employees-earning-more-than-their-managers](https://github.com/ASEEMNIHAL1/LEETCODE/tree/master/0181-employees-earning-more-than-their-managers) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/ASEEMNIHAL1/LEETCODE/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
