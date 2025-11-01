@@ -16,7 +16,7 @@ class Solution {
             for(int i = top;i<=bottom; i++){
                 ans.add(matrix[i][right]);
             }
-                right--;
+            right--;
 
         
             if(top <= bottom) {
