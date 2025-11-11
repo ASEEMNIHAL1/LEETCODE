@@ -52,6 +52,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2432-number-of-zero-filled-subarrays](https://github.com/ASEEMNIHAL1/LEETCODE/tree/master/2432-number-of-zero-filled-subarrays) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/ASEEMNIHAL1/LEETCODE/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/ASEEMNIHAL1/LEETCODE/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/ASEEMNIHAL1/LEETCODE/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Two Pointers
 |  |
 | ------- |
@@ -102,6 +103,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0560-subarray-sum-equals-k](https://github.com/ASEEMNIHAL1/LEETCODE/tree/master/0560-subarray-sum-equals-k) |
 | [0900-reordered-power-of-2](https://github.com/ASEEMNIHAL1/LEETCODE/tree/master/0900-reordered-power-of-2) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/ASEEMNIHAL1/LEETCODE/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/ASEEMNIHAL1/LEETCODE/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/ASEEMNIHAL1/LEETCODE/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Bit Manipulation
 |  |
@@ -241,6 +243,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0011-container-with-most-water](https://github.com/ASEEMNIHAL1/LEETCODE/tree/master/0011-container-with-most-water) |
 | [1448-maximum-69-number](https://github.com/ASEEMNIHAL1/LEETCODE/tree/master/1448-maximum-69-number) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/ASEEMNIHAL1/LEETCODE/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -276,6 +279,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0020-valid-parentheses](https://github.com/ASEEMNIHAL1/LEETCODE/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/ASEEMNIHAL1/LEETCODE/tree/master/0094-binary-tree-inorder-traversal) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/ASEEMNIHAL1/LEETCODE/tree/master/2307-replace-non-coprime-numbers-in-array) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/ASEEMNIHAL1/LEETCODE/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Brainteaser
 |  |
 | ------- |
@@ -310,4 +314,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ASEEMNIHAL1/LEETCODE/tree/master/0003-longest-substring-without-repeating-characters) |
+## Monotonic Stack
+|  |
+| ------- |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/ASEEMNIHAL1/LEETCODE/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 <!---LeetCode Topics End-->
