@@ -48,6 +48,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0909-stone-game](https://github.com/ASEEMNIHAL1/LEETCODE/tree/master/0909-stone-game) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/ASEEMNIHAL1/LEETCODE/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/ASEEMNIHAL1/LEETCODE/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/ASEEMNIHAL1/LEETCODE/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/ASEEMNIHAL1/LEETCODE/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/ASEEMNIHAL1/LEETCODE/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/ASEEMNIHAL1/LEETCODE/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
@@ -105,6 +106,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0560-subarray-sum-equals-k](https://github.com/ASEEMNIHAL1/LEETCODE/tree/master/0560-subarray-sum-equals-k) |
 | [0900-reordered-power-of-2](https://github.com/ASEEMNIHAL1/LEETCODE/tree/master/0900-reordered-power-of-2) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/ASEEMNIHAL1/LEETCODE/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/ASEEMNIHAL1/LEETCODE/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/ASEEMNIHAL1/LEETCODE/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/ASEEMNIHAL1/LEETCODE/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Bit Manipulation
@@ -170,6 +172,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0242-valid-anagram](https://github.com/ASEEMNIHAL1/LEETCODE/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/ASEEMNIHAL1/LEETCODE/tree/master/0268-missing-number) |
 | [0900-reordered-power-of-2](https://github.com/ASEEMNIHAL1/LEETCODE/tree/master/0900-reordered-power-of-2) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/ASEEMNIHAL1/LEETCODE/tree/master/2274-keep-multiplying-found-values-by-two) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -217,6 +220,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0898-transpose-matrix](https://github.com/ASEEMNIHAL1/LEETCODE/tree/master/0898-transpose-matrix) |
 | [1642-water-bottles](https://github.com/ASEEMNIHAL1/LEETCODE/tree/master/1642-water-bottles) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/ASEEMNIHAL1/LEETCODE/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/ASEEMNIHAL1/LEETCODE/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [3336-water-bottles-ii](https://github.com/ASEEMNIHAL1/LEETCODE/tree/master/3336-water-bottles-ii) |
 ## Prefix Sum
 |  |
