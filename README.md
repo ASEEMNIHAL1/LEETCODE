@@ -46,6 +46,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0898-transpose-matrix](https://github.com/ASEEMNIHAL1/LEETCODE/tree/master/0898-transpose-matrix) |
 | [0907-koko-eating-bananas](https://github.com/ASEEMNIHAL1/LEETCODE/tree/master/0907-koko-eating-bananas) |
 | [0909-stone-game](https://github.com/ASEEMNIHAL1/LEETCODE/tree/master/0909-stone-game) |
+| [0944-delete-columns-to-make-sorted](https://github.com/ASEEMNIHAL1/LEETCODE/tree/master/0944-delete-columns-to-make-sorted) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/ASEEMNIHAL1/LEETCODE/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/ASEEMNIHAL1/LEETCODE/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/ASEEMNIHAL1/LEETCODE/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
@@ -86,6 +87,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0171-excel-sheet-column-number](https://github.com/ASEEMNIHAL1/LEETCODE/tree/master/0171-excel-sheet-column-number) |
 | [0242-valid-anagram](https://github.com/ASEEMNIHAL1/LEETCODE/tree/master/0242-valid-anagram) |
 | [0812-rotate-string](https://github.com/ASEEMNIHAL1/LEETCODE/tree/master/0812-rotate-string) |
+| [0944-delete-columns-to-make-sorted](https://github.com/ASEEMNIHAL1/LEETCODE/tree/master/0944-delete-columns-to-make-sorted) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/ASEEMNIHAL1/LEETCODE/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1894-merge-strings-alternately](https://github.com/ASEEMNIHAL1/LEETCODE/tree/master/1894-merge-strings-alternately) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/ASEEMNIHAL1/LEETCODE/tree/master/2137-final-value-of-variable-after-performing-operations) |
