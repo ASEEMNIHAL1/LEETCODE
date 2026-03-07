@@ -134,6 +134,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0002-add-two-numbers](https://github.com/ASEEMNIHAL1/LEETCODE/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/ASEEMNIHAL1/LEETCODE/tree/master/0007-reverse-integer) |
 | [0048-rotate-image](https://github.com/ASEEMNIHAL1/LEETCODE/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/ASEEMNIHAL1/LEETCODE/tree/main/0050-powx-n/) | Medium |
 | [0067-add-binary](https://github.com/ASEEMNIHAL1/LEETCODE/tree/master/0067-add-binary) |
 | [0171-excel-sheet-column-number](https://github.com/ASEEMNIHAL1/LEETCODE/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/ASEEMNIHAL1/LEETCODE/tree/master/0189-rotate-array) |
@@ -248,6 +249,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/ASEEMNIHAL1/LEETCODE/tree/master/0002-add-two-numbers) |
+| [0050-powx-n](https://github.com/ASEEMNIHAL1/LEETCODE/tree/main/0050-powx-n/) | Medium |
 | [0206-reverse-linked-list](https://github.com/ASEEMNIHAL1/LEETCODE/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/ASEEMNIHAL1/LEETCODE/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/ASEEMNIHAL1/LEETCODE/tree/master/0342-power-of-four) |
