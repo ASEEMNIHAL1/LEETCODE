@@ -5,26 +5,18 @@ class Solution {
 
         int low = 0;
         int high = rows * cols - 1;
-        int firstIndex = -1;
         while(low <= high){
             int mid = low + (high - low) / 2;
-
             int row = mid / cols;
             int col = mid % cols;
-
-            if(matrix[row][col] >= target) {
-                firstIndex = mid;
+            if(matrix[row][col] == target) {
+                return true;
+            } else if (matrix[row][col] >= target) {
                 high = mid - 1;
             } else {
                 low = mid + 1;
             }
         }
-
-        if(firstIndex == -1) {
-            return false;
-        }
-        int row = firstIndex / cols;
-        int col = firstIndex % cols;
-        return matrix[row][col] == target;
+        return false;
     }
 }
