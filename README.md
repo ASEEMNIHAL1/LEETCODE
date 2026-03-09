@@ -44,6 +44,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0485-max-consecutive-ones](https://github.com/ASEEMNIHAL1/LEETCODE/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/ASEEMNIHAL1/LEETCODE/tree/master/0493-reverse-pairs) |
 | [0560-subarray-sum-equals-k](https://github.com/ASEEMNIHAL1/LEETCODE/tree/master/0560-subarray-sum-equals-k) |
+| [0645-set-mismatch](https://github.com/ASEEMNIHAL1/LEETCODE/tree/main/0645-set-mismatch/) | Easy |
 | [0792-binary-search](https://github.com/ASEEMNIHAL1/LEETCODE/tree/master/0792-binary-search) |
 | [0898-transpose-matrix](https://github.com/ASEEMNIHAL1/LEETCODE/tree/master/0898-transpose-matrix) |
 | [0907-koko-eating-bananas](https://github.com/ASEEMNIHAL1/LEETCODE/tree/master/0907-koko-eating-bananas) |
@@ -116,6 +117,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0242-valid-anagram](https://github.com/ASEEMNIHAL1/LEETCODE/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/ASEEMNIHAL1/LEETCODE/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/ASEEMNIHAL1/LEETCODE/tree/master/0560-subarray-sum-equals-k) |
+| [0645-set-mismatch](https://github.com/ASEEMNIHAL1/LEETCODE/tree/main/0645-set-mismatch/) | Easy |
 | [0900-reordered-power-of-2](https://github.com/ASEEMNIHAL1/LEETCODE/tree/master/0900-reordered-power-of-2) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/ASEEMNIHAL1/LEETCODE/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1980-find-unique-binary-string](https://github.com/ASEEMNIHAL1/LEETCODE/tree/main/1980-find-unique-binary-string/) | Medium |
@@ -134,6 +136,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/ASEEMNIHAL1/LEETCODE/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/ASEEMNIHAL1/LEETCODE/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0342-power-of-four](https://github.com/ASEEMNIHAL1/LEETCODE/tree/master/0342-power-of-four) |
+| [0645-set-mismatch](https://github.com/ASEEMNIHAL1/LEETCODE/tree/main/0645-set-mismatch/) | Easy |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/ASEEMNIHAL1/LEETCODE/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 ## Math
 | Problem Name | Difficulty |
@@ -195,6 +198,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0229-majority-element-ii](https://github.com/ASEEMNIHAL1/LEETCODE/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/ASEEMNIHAL1/LEETCODE/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/ASEEMNIHAL1/LEETCODE/tree/master/0268-missing-number) |
+| [0645-set-mismatch](https://github.com/ASEEMNIHAL1/LEETCODE/tree/main/0645-set-mismatch/) | Easy |
 | [0900-reordered-power-of-2](https://github.com/ASEEMNIHAL1/LEETCODE/tree/master/0900-reordered-power-of-2) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/ASEEMNIHAL1/LEETCODE/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [3074-apple-redistribution-into-boxes](https://github.com/ASEEMNIHAL1/LEETCODE/tree/master/3074-apple-redistribution-into-boxes) |
