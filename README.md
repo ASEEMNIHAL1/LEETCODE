@@ -40,6 +40,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0229-majority-element-ii](https://github.com/ASEEMNIHAL1/LEETCODE/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/ASEEMNIHAL1/LEETCODE/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/ASEEMNIHAL1/LEETCODE/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/ASEEMNIHAL1/LEETCODE/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0485-max-consecutive-ones](https://github.com/ASEEMNIHAL1/LEETCODE/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/ASEEMNIHAL1/LEETCODE/tree/master/0493-reverse-pairs) |
 | [0560-subarray-sum-equals-k](https://github.com/ASEEMNIHAL1/LEETCODE/tree/master/0560-subarray-sum-equals-k) |
@@ -79,6 +80,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0189-rotate-array](https://github.com/ASEEMNIHAL1/LEETCODE/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/ASEEMNIHAL1/LEETCODE/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/ASEEMNIHAL1/LEETCODE/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/ASEEMNIHAL1/LEETCODE/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [1894-merge-strings-alternately](https://github.com/ASEEMNIHAL1/LEETCODE/tree/master/1894-merge-strings-alternately) |
 ## String
 | Problem Name | Difficulty |
@@ -130,6 +132,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0191-number-of-1-bits](https://github.com/ASEEMNIHAL1/LEETCODE/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/ASEEMNIHAL1/LEETCODE/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/ASEEMNIHAL1/LEETCODE/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/ASEEMNIHAL1/LEETCODE/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0342-power-of-four](https://github.com/ASEEMNIHAL1/LEETCODE/tree/master/0342-power-of-four) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/ASEEMNIHAL1/LEETCODE/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 ## Math
@@ -176,6 +179,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ASEEMNIHAL1/LEETCODE/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/ASEEMNIHAL1/LEETCODE/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/ASEEMNIHAL1/LEETCODE/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/ASEEMNIHAL1/LEETCODE/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0493-reverse-pairs](https://github.com/ASEEMNIHAL1/LEETCODE/tree/master/0493-reverse-pairs) |
 | [0792-binary-search](https://github.com/ASEEMNIHAL1/LEETCODE/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/ASEEMNIHAL1/LEETCODE/tree/master/0907-koko-eating-bananas) |
