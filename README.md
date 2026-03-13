@@ -50,6 +50,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0907-koko-eating-bananas](https://github.com/ASEEMNIHAL1/LEETCODE/tree/master/0907-koko-eating-bananas) |
 | [0909-stone-game](https://github.com/ASEEMNIHAL1/LEETCODE/tree/master/0909-stone-game) |
 | [0944-delete-columns-to-make-sorted](https://github.com/ASEEMNIHAL1/LEETCODE/tree/master/0944-delete-columns-to-make-sorted) |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/ASEEMNIHAL1/LEETCODE/tree/main/1502-can-make-arithmetic-progression-from-sequence/) | Easy |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/ASEEMNIHAL1/LEETCODE/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/ASEEMNIHAL1/LEETCODE/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1980-find-unique-binary-string](https://github.com/ASEEMNIHAL1/LEETCODE/tree/main/1980-find-unique-binary-string/) | Medium |
@@ -204,6 +205,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/ASEEMNIHAL1/LEETCODE/tree/master/0268-missing-number) |
 | [0645-set-mismatch](https://github.com/ASEEMNIHAL1/LEETCODE/tree/main/0645-set-mismatch/) | Easy |
 | [0900-reordered-power-of-2](https://github.com/ASEEMNIHAL1/LEETCODE/tree/master/0900-reordered-power-of-2) |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/ASEEMNIHAL1/LEETCODE/tree/main/1502-can-make-arithmetic-progression-from-sequence/) | Easy |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/ASEEMNIHAL1/LEETCODE/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [3074-apple-redistribution-into-boxes](https://github.com/ASEEMNIHAL1/LEETCODE/tree/master/3074-apple-redistribution-into-boxes) |
 ## Divide and Conquer
