@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0033-search-in-rotated-sorted-array](https://github.com/ASEEMNIHAL1/LEETCODE/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ASEEMNIHAL1/LEETCODE/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/ASEEMNIHAL1/LEETCODE/tree/master/0035-search-insert-position) |
+| [0046-permutations](https://github.com/ASEEMNIHAL1/LEETCODE/tree/main/0046-permutations/) | Medium |
 | [0048-rotate-image](https://github.com/ASEEMNIHAL1/LEETCODE/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/ASEEMNIHAL1/LEETCODE/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/ASEEMNIHAL1/LEETCODE/tree/master/0054-spiral-matrix) |
@@ -381,6 +382,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0046-permutations](https://github.com/ASEEMNIHAL1/LEETCODE/tree/main/0046-permutations/) | Medium |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/ASEEMNIHAL1/LEETCODE/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/ASEEMNIHAL1/LEETCODE/tree/main/1980-find-unique-binary-string/) | Medium |
 <!---LeetCode Topics End-->
