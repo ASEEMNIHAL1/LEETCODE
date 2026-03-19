@@ -86,6 +86,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0142-linked-list-cycle-ii](https://github.com/ASEEMNIHAL1/LEETCODE/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0189-rotate-array](https://github.com/ASEEMNIHAL1/LEETCODE/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/ASEEMNIHAL1/LEETCODE/tree/master/0202-happy-number) |
+| [0234-palindrome-linked-list](https://github.com/ASEEMNIHAL1/LEETCODE/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0283-move-zeroes](https://github.com/ASEEMNIHAL1/LEETCODE/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/ASEEMNIHAL1/LEETCODE/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ASEEMNIHAL1/LEETCODE/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
@@ -287,6 +288,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0050-powx-n](https://github.com/ASEEMNIHAL1/LEETCODE/tree/main/0050-powx-n/) | Medium |
 | [0206-reverse-linked-list](https://github.com/ASEEMNIHAL1/LEETCODE/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/ASEEMNIHAL1/LEETCODE/tree/master/0231-power-of-two) |
+| [0234-palindrome-linked-list](https://github.com/ASEEMNIHAL1/LEETCODE/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0342-power-of-four](https://github.com/ASEEMNIHAL1/LEETCODE/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/ASEEMNIHAL1/LEETCODE/tree/master/1013-fibonacci-number) |
 ## Counting
@@ -334,6 +336,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0141-linked-list-cycle](https://github.com/ASEEMNIHAL1/LEETCODE/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ASEEMNIHAL1/LEETCODE/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0206-reverse-linked-list](https://github.com/ASEEMNIHAL1/LEETCODE/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/ASEEMNIHAL1/LEETCODE/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/ASEEMNIHAL1/LEETCODE/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/ASEEMNIHAL1/LEETCODE/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Number Theory
@@ -347,6 +350,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/ASEEMNIHAL1/LEETCODE/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/ASEEMNIHAL1/LEETCODE/tree/master/0094-binary-tree-inorder-traversal) |
+| [0234-palindrome-linked-list](https://github.com/ASEEMNIHAL1/LEETCODE/tree/main/0234-palindrome-linked-list/) | Easy |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/ASEEMNIHAL1/LEETCODE/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/ASEEMNIHAL1/LEETCODE/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Brainteaser
