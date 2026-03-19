@@ -67,6 +67,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/ASEEMNIHAL1/LEETCODE/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
 | [3074-apple-redistribution-into-boxes](https://github.com/ASEEMNIHAL1/LEETCODE/tree/master/3074-apple-redistribution-into-boxes) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/ASEEMNIHAL1/LEETCODE/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/ASEEMNIHAL1/LEETCODE/tree/main/3212-count-submatrices-with-equal-frequency-of-x-and-y/) | Medium |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/ASEEMNIHAL1/LEETCODE/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/ASEEMNIHAL1/LEETCODE/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/ASEEMNIHAL1/LEETCODE/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
@@ -262,6 +263,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0898-transpose-matrix](https://github.com/ASEEMNIHAL1/LEETCODE/tree/master/0898-transpose-matrix) |
 | [2965-find-missing-and-repeated-values](https://github.com/ASEEMNIHAL1/LEETCODE/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/ASEEMNIHAL1/LEETCODE/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
+| [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/ASEEMNIHAL1/LEETCODE/tree/main/3212-count-submatrices-with-equal-frequency-of-x-and-y/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -281,6 +283,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0560-subarray-sum-equals-k](https://github.com/ASEEMNIHAL1/LEETCODE/tree/master/0560-subarray-sum-equals-k) |
 | [2485-find-the-pivot-integer](https://github.com/ASEEMNIHAL1/LEETCODE/tree/main/2485-find-the-pivot-integer/) | Easy |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/ASEEMNIHAL1/LEETCODE/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
+| [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/ASEEMNIHAL1/LEETCODE/tree/main/3212-count-submatrices-with-equal-frequency-of-x-and-y/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
