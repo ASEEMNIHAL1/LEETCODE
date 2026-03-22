@@ -55,6 +55,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/ASEEMNIHAL1/LEETCODE/tree/main/1502-can-make-arithmetic-progression-from-sequence/) | Easy |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/ASEEMNIHAL1/LEETCODE/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/ASEEMNIHAL1/LEETCODE/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/ASEEMNIHAL1/LEETCODE/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
 | [1929-concatenation-of-array](https://github.com/ASEEMNIHAL1/LEETCODE/tree/main/1929-concatenation-of-array/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/ASEEMNIHAL1/LEETCODE/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/ASEEMNIHAL1/LEETCODE/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
@@ -265,6 +266,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0073-set-matrix-zeroes](https://github.com/ASEEMNIHAL1/LEETCODE/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/ASEEMNIHAL1/LEETCODE/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0898-transpose-matrix](https://github.com/ASEEMNIHAL1/LEETCODE/tree/master/0898-transpose-matrix) |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/ASEEMNIHAL1/LEETCODE/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
 | [2965-find-missing-and-repeated-values](https://github.com/ASEEMNIHAL1/LEETCODE/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/ASEEMNIHAL1/LEETCODE/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/ASEEMNIHAL1/LEETCODE/tree/main/3212-count-submatrices-with-equal-frequency-of-x-and-y/) | Medium |
