@@ -298,6 +298,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/ASEEMNIHAL1/LEETCODE/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/ASEEMNIHAL1/LEETCODE/tree/main/0050-powx-n/) | Medium |
+| [0203-remove-linked-list-elements](https://github.com/ASEEMNIHAL1/LEETCODE/tree/main/0203-remove-linked-list-elements/) | Easy |
 | [0206-reverse-linked-list](https://github.com/ASEEMNIHAL1/LEETCODE/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/ASEEMNIHAL1/LEETCODE/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/ASEEMNIHAL1/LEETCODE/tree/main/0234-palindrome-linked-list/) | Easy |
@@ -349,6 +350,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0092-reverse-linked-list-ii](https://github.com/ASEEMNIHAL1/LEETCODE/tree/main/0092-reverse-linked-list-ii/) | Medium |
 | [0141-linked-list-cycle](https://github.com/ASEEMNIHAL1/LEETCODE/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ASEEMNIHAL1/LEETCODE/tree/main/0142-linked-list-cycle-ii/) | Medium |
+| [0203-remove-linked-list-elements](https://github.com/ASEEMNIHAL1/LEETCODE/tree/main/0203-remove-linked-list-elements/) | Easy |
 | [0206-reverse-linked-list](https://github.com/ASEEMNIHAL1/LEETCODE/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/ASEEMNIHAL1/LEETCODE/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/ASEEMNIHAL1/LEETCODE/tree/main/0876-middle-of-the-linked-list/) | Easy |
