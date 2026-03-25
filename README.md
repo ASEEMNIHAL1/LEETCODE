@@ -70,6 +70,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/ASEEMNIHAL1/LEETCODE/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/ASEEMNIHAL1/LEETCODE/tree/main/3212-count-submatrices-with-equal-frequency-of-x-and-y/) | Medium |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/ASEEMNIHAL1/LEETCODE/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
+| [3546-equal-sum-grid-partition-i](https://github.com/ASEEMNIHAL1/LEETCODE/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/ASEEMNIHAL1/LEETCODE/tree/main/3567-minimum-absolute-difference-in-sliding-submatrix/) | Medium |
 | [3643-flip-square-submatrix-vertically](https://github.com/ASEEMNIHAL1/LEETCODE/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/ASEEMNIHAL1/LEETCODE/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
@@ -271,6 +272,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2965-find-missing-and-repeated-values](https://github.com/ASEEMNIHAL1/LEETCODE/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/ASEEMNIHAL1/LEETCODE/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/ASEEMNIHAL1/LEETCODE/tree/main/3212-count-submatrices-with-equal-frequency-of-x-and-y/) | Medium |
+| [3546-equal-sum-grid-partition-i](https://github.com/ASEEMNIHAL1/LEETCODE/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/ASEEMNIHAL1/LEETCODE/tree/main/3567-minimum-absolute-difference-in-sliding-submatrix/) | Medium |
 | [3643-flip-square-submatrix-vertically](https://github.com/ASEEMNIHAL1/LEETCODE/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 ## Simulation
@@ -293,6 +295,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2485-find-the-pivot-integer](https://github.com/ASEEMNIHAL1/LEETCODE/tree/main/2485-find-the-pivot-integer/) | Easy |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/ASEEMNIHAL1/LEETCODE/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/ASEEMNIHAL1/LEETCODE/tree/main/3212-count-submatrices-with-equal-frequency-of-x-and-y/) | Medium |
+| [3546-equal-sum-grid-partition-i](https://github.com/ASEEMNIHAL1/LEETCODE/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -317,6 +320,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0900-reordered-power-of-2](https://github.com/ASEEMNIHAL1/LEETCODE/tree/master/0900-reordered-power-of-2) |
 | [1925-count-square-sum-triples](https://github.com/ASEEMNIHAL1/LEETCODE/tree/master/1925-count-square-sum-triples) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/ASEEMNIHAL1/LEETCODE/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
+| [3546-equal-sum-grid-partition-i](https://github.com/ASEEMNIHAL1/LEETCODE/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
